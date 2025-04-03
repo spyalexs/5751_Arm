@@ -1,0 +1,12 @@
+To set a servo ID:
+
+The servo has a default address of 1 so any servo with that ID must be unplugged or multiple servo IDs will be changed.
+
+Plug servo into arduino and open a serial connection between the laptop and the arduino. (Make sure the servo's ground is the arduino's ground).
+
+Load the set servo ID code onto the arduino and follow the promts given by the code.
+
+You may need to do this process more than once, slightly finicky.
+
+Be sure to reload base code onto arduino after completion.
+
